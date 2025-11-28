@@ -1,0 +1,238 @@
+{
+  "idol": {
+    "id": 34,
+    "name": "성훈",
+    "group": "엔하이픈"
+  },
+  "crawledAt": "2025-11-28T16:33:42.996Z",
+  "totalEvents": 13,
+  "events": [
+    {
+      "id": "12860",
+      "title": "𝗘𝘁𝗲𝗿𝗻𝗮𝗹 𝗹𝗼𝘃𝗲 𝘀𝗼𝗻𝗴",
+      "location": "카페 도레미",
+      "region": "",
+      "date": "12월 6일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/4BJyPPw2ZPcMSLAuu7zC.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "키링"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12860",
+      "localImageUrl": "/images/events/34-event-12860.webp"
+    },
+    {
+      "id": "12861",
+      "title": "♱ 𝐋𝐨𝐯𝐞 𝐨𝐟 𝐅𝐚𝐭𝐞 ♱ ⋆˚ ｡",
+      "location": "디어마이디어",
+      "region": "홍대",
+      "date": "12월 7일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/WT1ga4MxBlk5WHZrDwUh.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "가챠"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "카드",
+        "티켓"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12861",
+      "localImageUrl": "/images/events/34-event-12861.webp"
+    },
+    {
+      "id": "13001",
+      "title": "✦ 𝟮𝟬𝟮𝟱 𝘽𝙞𝙧𝙩𝙝𝙙𝙖𝙮 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 ·讴歌永远不会忘怀的爱✦",
+      "location": "롱브르378",
+      "region": "용산",
+      "date": "12월 8일 - 12월 10일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/cIsYoxcIOmZ527wFJ2Nd.webp",
+      "eventTypes": [],
+      "goods": [
+        "종이컵",
+        "키링",
+        "포토카드",
+        "현수막"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13001",
+      "localImageUrl": "/images/events/34-event-13001.webp"
+    },
+    {
+      "id": "13067",
+      "title": "성훈이의 하트사물함",
+      "location": "키키스벌스데이",
+      "region": "부산",
+      "date": "12월 11일 - 12월 14일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/YIvYYmMGVrdy5quLxjag.webp",
+      "eventTypes": [
+        "가챠"
+      ],
+      "goods": [
+        "뱃지",
+        "스티커",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13067",
+      "localImageUrl": "/images/events/34-event-13067.webp"
+    },
+    {
+      "id": "13117",
+      "title": "성훈대표님의 ➊➋⓿➑ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 ✶",
+      "location": "악센트아이디",
+      "region": "홍대",
+      "date": "12월 7일 - 12월 9일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/xE9hlA4yQpj0PhOzIso3.webp",
+      "eventTypes": [],
+      "goods": [
+        "증명사진",
+        "포스터",
+        "포토카드",
+        "L홀더"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13117",
+      "localImageUrl": "/images/events/34-event-13117.webp"
+    },
+    {
+      "id": "13002",
+      "title": "✦ 𝟮𝟬𝟮𝟱 𝘽𝙞𝙧𝙩𝙝𝙙𝙖𝙮 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 ·讴歌永远不会忘怀的爱✦",
+      "location": "차품집",
+      "region": "용산",
+      "date": "12월 7일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/TA4Ij3BDXK1CwAMwbvlu.webp",
+      "eventTypes": [],
+      "goods": [
+        "종이컵",
+        "키링",
+        "포토카드",
+        "현수막"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13002",
+      "localImageUrl": "/images/events/34-event-13002.webp"
+    },
+    {
+      "id": "13074",
+      "title": "𝐍𝐄𝐎𝐍 𝐕𝐎𝐈𝐃 : 𝟒𝟎𝟒",
+      "location": "봄마켓",
+      "region": "용산",
+      "date": "12월 7일 - 12월 9일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/b2dxDDWfG5uzcnVuH9JG.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "카드",
+        "포스터"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13074",
+      "localImageUrl": "/images/events/34-event-13074.webp"
+    },
+    {
+      "id": "13063",
+      "title": "엔하이픈 성훈 생일카페",
+      "location": "카페레이어스튜디오",
+      "region": "",
+      "date": "12월 6일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/0F907pfvyWY3I0yrZbra.webp",
+      "eventTypes": [],
+      "goods": [
+        "도무송",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13063",
+      "localImageUrl": "/images/events/34-event-13063.webp"
+    },
+    {
+      "id": "13149",
+      "title": "첫사랑 주의보!",
+      "location": "파스텔필름",
+      "region": "",
+      "date": "12월 6일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/X2g2Hr1zOzh0qf6In2Lf.webp",
+      "eventTypes": [],
+      "goods": [
+        "포토존"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13149",
+      "localImageUrl": "/images/events/34-event-13149.webp"
+    },
+    {
+      "id": "13150",
+      "title": "Ice Skating You!",
+      "location": "타임슬래시",
+      "region": "부산",
+      "date": "12월 7일 - 12월 9일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/nasFDtjU7dhAzkFIrosj.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13150",
+      "localImageUrl": "/images/events/34-event-13150.webp"
+    },
+    {
+      "id": "13148",
+      "title": "구름위의 성훈",
+      "location": "메르시쿠키",
+      "region": "용산",
+      "date": "12월 7일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/0MMwF4krSonU0KrHE0cK.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "그 외"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13148",
+      "localImageUrl": "/images/events/34-event-13148.webp"
+    },
+    {
+      "id": "13240",
+      "title": "훈멍이의 주먹밥 판매소🍙",
+      "location": "톤앤매너",
+      "region": "홍대",
+      "date": "12월 5일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/vSC7YMiS8ws3RHf6LBxH.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "종이컵",
+        "포스터",
+        "포토매틱"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13240",
+      "localImageUrl": "/images/events/34-event-13240.webp"
+    },
+    {
+      "id": "13253",
+      "title": "성훈이의 하트사물함",
+      "location": "카페꼬모",
+      "region": "홍대",
+      "date": "12월 7일 - 12월 8일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/giRJOWrhzcgzG3d4qwP4.webp",
+      "eventTypes": [],
+      "goods": [
+        "뱃지",
+        "스티커",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13253",
+      "localImageUrl": "/images/events/34-event-13253.webp"
+    }
+  ]
+}

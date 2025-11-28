@@ -7,6 +7,7 @@ import HowItWorks from "@/components/home/HowItWorks";
 import Comparison from "@/components/home/Comparison";
 import Reviews from "@/components/home/Reviews";
 import CallToAction from "@/components/home/CallToAction";
+import FeaturedCourses from "@/components/home/FeaturedCourses";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Header />
       <Hero />
       <Marquee />
+      <FeaturedCourses /> {/* Simplified teaser section */}
       <Features />
       <Comparison />
       <HowItWorks />

@@ -1,0 +1,42 @@
+{
+  "crawledAt": "2025-11-28T16:33:45.413Z",
+  "idols": [
+    {
+      "id": 65,
+      "name": "운학",
+      "eventCount": 71
+    },
+    {
+      "id": 62,
+      "name": "명재현",
+      "group": "보이넥스트도어",
+      "eventCount": 63
+    },
+    {
+      "id": 27,
+      "name": "수빈",
+      "group": "투모로우바이투게더",
+      "eventCount": 17
+    },
+    {
+      "id": 355,
+      "name": "도영",
+      "group": "트레저",
+      "eventCount": 17
+    },
+    {
+      "id": 34,
+      "name": "성훈",
+      "group": "엔하이픈",
+      "eventCount": 13
+    },
+    {
+      "id": 24,
+      "name": "진",
+      "group": "방탄소년단",
+      "eventCount": 11
+    }
+  ],
+  "totalIdols": 6,
+  "totalEvents": 192
+}

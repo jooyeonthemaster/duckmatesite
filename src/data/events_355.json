@@ -1,0 +1,297 @@
+{
+  "idol": {
+    "id": 355,
+    "name": "도영",
+    "group": "트레저"
+  },
+  "crawledAt": "2025-11-28T16:33:39.972Z",
+  "totalEvents": 17,
+  "events": [
+    {
+      "id": "12778",
+      "title": "𝐀𝐧𝐠𝐞𝐥 𝐃𝐎𝐘𝐎𝐔𝐍𝐆 𝐃𝐀𝐘",
+      "location": "카페 홀리데이",
+      "region": "",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/bLopA3AYwhdJs2qo6wUR.webp",
+      "eventTypes": [],
+      "goods": [
+        "그 외"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12778",
+      "localImageUrl": "/images/events/355-event-12778.webp"
+    },
+    {
+      "id": "12779",
+      "title": "𝐻𝑒𝑎𝑙𝑖𝑛𝑔 𝑆𝑝𝑎𝑐𝑒",
+      "location": "빅토리카페",
+      "region": "홍대",
+      "date": "12월 2일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/HDd4hgLOuxklNDJjU6FU.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12779",
+      "localImageUrl": "/images/events/355-event-12779.webp"
+    },
+    {
+      "id": "12780",
+      "title": "𝑻𝒐 𝑴𝒚 𝑶𝒏𝒍𝒚 𝑺𝒕𝒂𝒓",
+      "location": "파스텔필름",
+      "region": "",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/IsValqWx1dvwLcLVxOX8.webp",
+      "eventTypes": [],
+      "goods": [
+        "포토존"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12780",
+      "localImageUrl": "/images/events/355-event-12780.webp"
+    },
+    {
+      "id": "12773",
+      "title": "모찌모찌베이비의모찌모찌카페",
+      "location": "옐로우벌스데이",
+      "region": "",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/om4SsVwtCqAd3lRL4pyx.webp",
+      "eventTypes": [],
+      "goods": [
+        "가방",
+        "스티커",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12773",
+      "localImageUrl": "/images/events/355-event-12773.webp"
+    },
+    {
+      "id": "12775",
+      "title": "소바한도영",
+      "location": "멜로우",
+      "region": "",
+      "date": "12월 3일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/MvNAmenzeymkDXwagEmH.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12775",
+      "localImageUrl": "/images/events/355-event-12775.webp"
+    },
+    {
+      "id": "12772",
+      "title": "Super! DOYOUNG DAY",
+      "location": "RGB포토스튜디오 합정점",
+      "region": "",
+      "date": "12월 3일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/iLXGsdSLRlKDEUWBzd4a.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "키링",
+        "포카프레임"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12772",
+      "localImageUrl": "/images/events/355-event-12772.webp"
+    },
+    {
+      "id": "12999",
+      "title": "또또란?! 만두파티",
+      "location": "만두란",
+      "region": "",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/iidwxxgcmQwcHwlDS7Wv.webp",
+      "eventTypes": [],
+      "goods": [
+        "띠부실",
+        "엽서",
+        "젓가락",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12999",
+      "localImageUrl": "/images/events/355-event-12999.webp"
+    },
+    {
+      "id": "12774",
+      "title": "PINKY CLUB",
+      "location": "카페333",
+      "region": "홍대",
+      "date": "12월 2일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ej8AqhQFa0lNhXNOp1gy.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "쇼핑백",
+        "스티커",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12774",
+      "localImageUrl": "/images/events/355-event-12774.webp"
+    },
+    {
+      "id": "12776",
+      "title": "𝑫𝑨𝒀 𝑨𝑵𝑫 𝑵𝑰𝑮𝑯𝑻",
+      "location": "알토커피바 합정",
+      "region": "",
+      "date": "12월 3일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/EgltxWMVtfloSqYLg9Hj.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "카드",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12776",
+      "localImageUrl": "/images/events/355-event-12776.webp"
+    },
+    {
+      "id": "12781",
+      "title": "도영의 파스텔 드림",
+      "location": "때때로꽃집",
+      "region": "",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/XhZH2STnhHQWGqRGzliO.webp",
+      "eventTypes": [],
+      "goods": [
+        "봉투",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12781",
+      "localImageUrl": "/images/events/355-event-12781.webp"
+    },
+    {
+      "id": "12991",
+      "title": "ドヨンキ",
+      "location": "블루로그",
+      "region": "",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/GyfjOpxyz6SYj2MtbzkM.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "키링"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12991",
+      "localImageUrl": "/images/events/355-event-12991.webp"
+    },
+    {
+      "id": "12771",
+      "title": "공주님 파티 가실 시간입니다",
+      "location": "카페밤비 2호점",
+      "region": "",
+      "date": "12월 1일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/R6Aqls3gBSHQss8QbQ9Y.webp",
+      "eventTypes": [],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "초대장",
+        "투명 포카"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12771",
+      "localImageUrl": "/images/events/355-event-12771.webp"
+    },
+    {
+      "id": "12992",
+      "title": "아기 토끼 𝗺𝗲𝗼𝘄",
+      "location": "스이츠",
+      "region": "",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/bGiOe88A7gC1qbe4inmT.webp",
+      "eventTypes": [],
+      "goods": [
+        "말랑 뱃지",
+        "스티커"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12992",
+      "localImageUrl": "/images/events/355-event-12992.webp"
+    },
+    {
+      "id": "13192",
+      "title": "𝐀𝐧𝐠𝐞𝐥 𝐃𝐎𝐘𝐎𝐔𝐍𝐆 𝐃𝐀𝐘",
+      "location": "카페 홀리데이",
+      "region": "홍대",
+      "date": "12월 3일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/qdf0nA9WaE5KEPRjujZ2.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13192",
+      "localImageUrl": "/images/events/355-event-13192.webp"
+    },
+    {
+      "id": "13256",
+      "title": "《𝗬𝗼𝘂𝗿 𝗬𝗼𝘂𝘁𝗵 𝗩𝗼𝗹.𝟯》— 겨울이 오면, ˢᵉᶜʳᵉᵗ ᵐᵉᵐᵒʳʸ",
+      "location": "카페보니",
+      "region": "",
+      "date": "12월 1일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/s86zJHJvEKpbXtI0a6aS.webp",
+      "eventTypes": [],
+      "goods": [
+        "북마크",
+        "엽서",
+        "종이컵",
+        "포토필름"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13256",
+      "localImageUrl": "/images/events/355-event-13256.webp"
+    },
+    {
+      "id": "13251",
+      "title": "Doyoung Brighten my life",
+      "location": "RGB포토스튜디오 홍대입구점",
+      "region": "홍대",
+      "date": "12월 2일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/v51GjYeRoyolUCS7kSRA.webp",
+      "eventTypes": [],
+      "goods": [
+        "포토존"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13251",
+      "localImageUrl": "/images/events/355-event-13251.webp"
+    },
+    {
+      "id": "13252",
+      "title": "𝐒𝐭𝐚𝐫𝐥𝐢𝐠𝐡𝐭 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐃𝐨𝐲𝐨𝐮𝐧𝐠",
+      "location": "카페치어럽",
+      "region": "",
+      "date": "12월 2일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/FwATuOOvbvgCGWDoVhYz.webp",
+      "eventTypes": [],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포카프레임",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13252",
+      "localImageUrl": "/images/events/355-event-13252.webp"
+    }
+  ]
+}

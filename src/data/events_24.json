@@ -1,0 +1,212 @@
+{
+  "idol": {
+    "id": 24,
+    "name": "진",
+    "group": "방탄소년단"
+  },
+  "crawledAt": "2025-11-28T16:33:45.411Z",
+  "totalEvents": 11,
+  "events": [
+    {
+      "id": "12633",
+      "title": "햄찌니의 겨울방학🐹",
+      "location": "톤앤매너",
+      "region": "홍대",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/99j1LccncK6sRiKCjT5y.webp",
+      "eventTypes": [],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포스터",
+        "포토매틱"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12633",
+      "localImageUrl": "/images/events/24-event-12633.webp"
+    },
+    {
+      "id": "12715",
+      "title": "석진이네 물회가게",
+      "location": "키드문 본점",
+      "region": "용산",
+      "date": "11월 30일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/3JZuUplrF0MjpaMEXCjJ.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "그 외",
+        "스티커팩",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12715",
+      "localImageUrl": "/images/events/24-event-12715.webp"
+    },
+    {
+      "id": "12727",
+      "title": "MONDLIED",
+      "location": "부클레",
+      "region": "용산",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/f8AyMDB3HLC0Cc41UpRx.webp",
+      "eventTypes": [
+        "사전 예약"
+      ],
+      "goods": [
+        "종이컵",
+        "증명사진",
+        "키링",
+        "포스터"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12727",
+      "localImageUrl": "/images/events/24-event-12727.webp"
+    },
+    {
+      "id": "12945",
+      "title": "𝓦𝓲𝓵𝓵 𝔂𝓸𝓾 𝓶𝓪𝓻𝓻𝔂 𝓶𝓮?",
+      "location": "아이디오",
+      "region": "홍대",
+      "date": "12월 3일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/GC0Y2X6PfZj62WpHd2GJ.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "키링",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12945",
+      "localImageUrl": "/images/events/24-event-12945.webp"
+    },
+    {
+      "id": "13100",
+      "title": "Happy JIN day",
+      "location": "카페뮤즈",
+      "region": "부산",
+      "date": "12월 3일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/seneO5FBGAfgDiogMk7I.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13100",
+      "localImageUrl": "/images/events/24-event-13100.webp"
+    },
+    {
+      "id": "13062",
+      "title": "12월의 시작 별빛 두 점이 반짝이다",
+      "location": "홍대집",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/gfIllK7D1IvDeJxXCzfd.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "스티커",
+        "아크릴스탠드",
+        "엽서",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13062",
+      "localImageUrl": "/images/events/24-event-13062.webp"
+    },
+    {
+      "id": "13176",
+      "title": "AlwaysWithJin",
+      "location": "롱브르378",
+      "region": "용산",
+      "date": "12월 2일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/KVuneM4p7AeHt7t3Q5ku.webp",
+      "eventTypes": [],
+      "goods": [
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13176",
+      "localImageUrl": "/images/events/24-event-13176.webp"
+    },
+    {
+      "id": "13162",
+      "title": "𝐋𝐨𝐯𝐞 𝐟𝐨𝐫 𝐚𝐥𝐥 𝐬𝐞𝐚𝐬𝐨𝐧𝐬",
+      "location": "마린커피 빅히트사옥점",
+      "region": "용산",
+      "date": "12월 2일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/AaWcpaPSn77Fyi7bEqK5.webp",
+      "eventTypes": [],
+      "goods": [
+        "부채",
+        "종이컵",
+        "포스터",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13162",
+      "localImageUrl": "/images/events/24-event-13162.webp"
+    },
+    {
+      "id": "13163",
+      "title": "𝐋𝐨𝐯𝐞 𝐟𝐨𝐫 𝐚𝐥𝐥 𝐬𝐞𝐚𝐬𝐨𝐧𝐬",
+      "location": "낫배드커피 한남",
+      "region": "용산",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/HHME5c9G2FPOqxgfEliR.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13163",
+      "localImageUrl": "/images/events/24-event-13163.webp"
+    },
+    {
+      "id": "13231",
+      "title": "❥・・ ┈┈┈༚༅༚˳ . HAPPY JIN DAY . ˳༚༅༚┈┈ ・・❥",
+      "location": "시아아틀리에",
+      "region": "용산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/iaNnL96dUIbIB40Z75U4.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스",
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13231",
+      "localImageUrl": "/images/events/24-event-13231.webp"
+    },
+    {
+      "id": "13227",
+      "title": "𝐇𝐀𝐏𝐏𝐘 𝐉𝐈𝐍 𝐃𝐀𝐘",
+      "location": "코오피",
+      "region": "",
+      "date": "12월 5일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/BSzbmOU2RLK4bkrpBx9p.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13227",
+      "localImageUrl": "/images/events/24-event-13227.webp"
+    }
+  ]
+}

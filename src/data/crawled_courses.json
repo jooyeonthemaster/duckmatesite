@@ -1,0 +1,156 @@
+[
+  {
+    "id": "trending-master",
+    "title": "🔥 SEOUL TOP 10 TRENDING",
+    "curator": "Duckmate AI",
+    "description": "The absolute hottest places visited by K-pop fans this week.",
+    "likes": 5200,
+    "tags": [
+      "Trending",
+      "Hot"
+    ],
+    "image": null,
+    "spots": [
+      {
+        "name": "악하입으",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29라길 22",
+        "image": null
+      },
+      {
+        "name": "올리브영 성수",
+        "type": "Spot",
+        "location": "서울 성동구 연무장7길 13",
+        "image": null
+      },
+      {
+        "name": "포토이즘 성수점",
+        "type": "Spot",
+        "location": "서울 성동구 서울숲2길 17-2",
+        "image": null
+      },
+      {
+        "name": "광야 서울 (KWANGYA SEOUL)",
+        "type": "Spot",
+        "location": "서울 성동구 왕십리로 83-21",
+        "image": null
+      },
+      {
+        "name": "비트로드",
+        "type": "Spot",
+        "location": "서울 마포구 잔다리로6길 35",
+        "image": null
+      },
+      {
+        "name": "포카부",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29나길 26",
+        "image": null
+      },
+      {
+        "name": "아이돌스토어 홍대점",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29다길 20",
+        "image": null
+      },
+      {
+        "name": "더키월드",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29길 60",
+        "image": null
+      },
+      {
+        "name": "악하입으 ",
+        "type": "Spot",
+        "location": "서울 마포구 양화로 지하 188",
+        "image": null
+      },
+      {
+        "name": "위드뮤 AK플라자점",
+        "type": "Spot",
+        "location": "서울 마포구 양화로 188",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "theme-culture",
+    "title": "📸 K-CULTURE & PHOTO SPOTS",
+    "curator": "Seoul Explorer",
+    "description": "Pop-up stores, photo booths, and cultural landmarks.",
+    "likes": 2800,
+    "tags": [
+      "Culture",
+      "Activity"
+    ],
+    "image": null,
+    "spots": [
+      {
+        "name": "악하입으",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29라길 22",
+        "image": null
+      },
+      {
+        "name": "올리브영 성수",
+        "type": "Spot",
+        "location": "서울 성동구 연무장7길 13",
+        "image": null
+      },
+      {
+        "name": "포토이즘 성수점",
+        "type": "Spot",
+        "location": "서울 성동구 서울숲2길 17-2",
+        "image": null
+      },
+      {
+        "name": "광야 서울 (KWANGYA SEOUL)",
+        "type": "Spot",
+        "location": "서울 성동구 왕십리로 83-21",
+        "image": null
+      },
+      {
+        "name": "비트로드",
+        "type": "Spot",
+        "location": "서울 마포구 잔다리로6길 35",
+        "image": null
+      },
+      {
+        "name": "포카부",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29나길 26",
+        "image": null
+      },
+      {
+        "name": "아이돌스토어 홍대점",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29다길 20",
+        "image": null
+      },
+      {
+        "name": "더키월드",
+        "type": "Spot",
+        "location": "서울 마포구 와우산로29길 60",
+        "image": null
+      },
+      {
+        "name": "악하입으 ",
+        "type": "Spot",
+        "location": "서울 마포구 양화로 지하 188",
+        "image": null
+      },
+      {
+        "name": "위드뮤 AK플라자점",
+        "type": "Spot",
+        "location": "서울 마포구 양화로 188",
+        "image": null
+      },
+      {
+        "name": "포카아이 연남점",
+        "type": "Spot",
+        "location": "서울 마포구 양화로23길 34",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(npm install:*)",
+      "Bash(node scripts/crawl-events.js:*)",
+      "Bash(node -e:*)",
+      "Bash(node scripts/analyze-html.js:*)",
+      "Bash(npx playwright install:*)",
+      "Bash(node scripts/crawl-events-v3.js:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node scripts/find-idol-ids.js:*)",
+      "Bash(timeout 90 node:*)",
+      "Bash(node scripts/fetch-idol-api.js:*)",
+      "Bash(node scripts/crawl-all-idols.js:*)",
+      "Bash(node scripts/scan-idol-ids.js:*)",
+      "Bash(node scripts/fetch-hot-idols.js:*)",
+      "Bash(node scripts/search-idols.js:*)",
+      "Bash(node scripts/parallel-scan.js:*)",
+      "Bash(node scripts/crawl-top-idols.js:*)",
+      "Bash(npm run build:*)",
+      "Bash(vercel:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

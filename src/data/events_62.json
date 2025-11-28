@@ -1,0 +1,1180 @@
+{
+  "idol": {
+    "id": 62,
+    "name": "명재현",
+    "group": "보이넥스트도어"
+  },
+  "crawledAt": "2025-11-28T16:33:29.559Z",
+  "totalEvents": 63,
+  "events": [
+    {
+      "id": "11732",
+      "title": "⛦ 𝐌𝐲𝐮𝐧𝐠 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 ⛦",
+      "location": "스튜디오앱트",
+      "region": "홍대",
+      "date": "11월 28일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/j2t9Uj0lEbC3yOcPAhoo.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/11732",
+      "localImageUrl": "/images/events/62-event-11732.webp"
+    },
+    {
+      "id": "12769",
+      "title": "재현이의 비밀일기장!",
+      "location": "브라운시티 갤러리점",
+      "region": "홍대",
+      "date": "11월 28일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/fv8QheskpeDFz5YZtfrN.webp",
+      "eventTypes": [
+        "가챠"
+      ],
+      "goods": [
+        "스티커팩",
+        "엽서",
+        "종이컵",
+        "카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12769",
+      "localImageUrl": "/images/events/62-event-12769.webp"
+    },
+    {
+      "id": "12606",
+      "title": "작전 명 재현",
+      "location": "컬렉션",
+      "region": "부산",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/fqP4pQamAUTzk1NoQlOX.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "스탬프 투어"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포카프레임",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12606",
+      "localImageUrl": "/images/events/62-event-12606.webp"
+    },
+    {
+      "id": "12516",
+      "title": "WOLF ROCKSTAR JAEHYUN",
+      "location": "카페 멜랑",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/KAaeYjZviPjettwNtTqC.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12516",
+      "localImageUrl": "/images/events/62-event-12516.webp"
+    },
+    {
+      "id": "12646",
+      "title": "운명 연구소",
+      "location": "아이니드케이크 홍대점",
+      "region": "홍대",
+      "date": "11월 29일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/Yd7eKmeVt2DfJZZMNxRJ.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "그 외",
+        "엽서",
+        "종이컵",
+        "포카 파우치"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12646",
+      "localImageUrl": "/images/events/62-event-12646.webp"
+    },
+    {
+      "id": "12731",
+      "title": "명화당",
+      "location": "델루나카페&갤러리",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/UarnQvODQTkQwfaaQUu5.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12731",
+      "localImageUrl": "/images/events/62-event-12731.webp"
+    },
+    {
+      "id": "12811",
+      "title": "재혀니의 미니월드",
+      "location": "쿠키코코",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/vr455lskxSAvMTchPoPe.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "도무송",
+        "스티커",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12811",
+      "localImageUrl": "/images/events/62-event-12811.webp"
+    },
+    {
+      "id": "12887",
+      "title": "명명학개론",
+      "location": "카페 이유",
+      "region": "홍대",
+      "date": "12월 3일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/tTXRjfk2rOkBGFB0NngW.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "트레카",
+        "학생증"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12887",
+      "localImageUrl": "/images/events/62-event-12887.webp"
+    },
+    {
+      "id": "12728",
+      "title": "ㄴr으l, 初戀",
+      "location": "아이니드케이크 홍대점",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/9UhYY8gHoJYsINwQBRRS.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "시험지",
+        "엽서",
+        "우치와"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12728",
+      "localImageUrl": "/images/events/62-event-12728.webp"
+    },
+    {
+      "id": "12734",
+      "title": "𝚃𝚑𝚎 𝚠𝚊𝚢 𝚠𝚎 𝚈𝙾𝚄𝚃𝙷",
+      "location": "카페07",
+      "region": "홍대",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/fUfnIoOaA5vVLvwrb9mL.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포토매틱",
+        "프리쿠라"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12734",
+      "localImageUrl": "/images/events/62-event-12734.webp"
+    },
+    {
+      "id": "12730",
+      "title": "Replay : 우리의 겨울",
+      "location": "브라운시티 갤러리점",
+      "region": "홍대",
+      "date": "12월 6일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/7IyBKkqsE3xxw9O1PShy.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포스터",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12730",
+      "localImageUrl": "/images/events/62-event-12730.webp"
+    },
+    {
+      "id": "12660",
+      "title": "운멍즈에게 끌리는 이유",
+      "location": "카페뮤즈",
+      "region": "부산",
+      "date": "11월 28일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ABQX9DHLRC4jYlzG6vtH.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "키링"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12660",
+      "localImageUrl": "/images/events/62-event-12660.webp"
+    },
+    {
+      "id": "12733",
+      "title": "𝗟𝗜𝗧 𝗕𝗢𝗬",
+      "location": "카페 세화",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/BhsNiWuvPfkJ0uVdAXgH.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스",
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "엽서"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12733",
+      "localImageUrl": "/images/events/62-event-12733.webp"
+    },
+    {
+      "id": "12729",
+      "title": "명인만두",
+      "location": "하이타운 서울",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ty1P9k3JmZrdDOtIH5DC.webp",
+      "eventTypes": [
+        "포토부스"
+      ],
+      "goods": [
+        "스티커팩",
+        "엽서",
+        "젓가락",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12729",
+      "localImageUrl": "/images/events/62-event-12729.webp"
+    },
+    {
+      "id": "12836",
+      "title": "별의 소년",
+      "location": "봄마켓",
+      "region": "용산",
+      "date": "11월 30일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/53W5ywsByVehgF04pTry.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "우치와",
+        "종이컵",
+        "카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12836",
+      "localImageUrl": "/images/events/62-event-12836.webp"
+    },
+    {
+      "id": "12732",
+      "title": "満潮燈",
+      "location": "오디너리아카이브",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/KCsi1lhXUQXn2YNYjDJk.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "가챠"
+      ],
+      "goods": [
+        "스티커팩",
+        "엽서",
+        "종이컵",
+        "포토북"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12732",
+      "localImageUrl": "/images/events/62-event-12732.webp"
+    },
+    {
+      "id": "12933",
+      "title": "명명이 연구일지",
+      "location": "시츠",
+      "region": "부산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/NadKAJuZ18jvx3ZEM9Os.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12933",
+      "localImageUrl": "/images/events/62-event-12933.webp"
+    },
+    {
+      "id": "12736",
+      "title": "𝗗𝗿𝗲𝗮𝗺 𝗟𝗼𝗴𝘂𝗲",
+      "location": "카페하무모카",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/zVKDUNcpf5XX3sMndXtS.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "초대장"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12736",
+      "localImageUrl": "/images/events/62-event-12736.webp"
+    },
+    {
+      "id": "12748",
+      "title": "운멍레코즈",
+      "location": "카페마시로",
+      "region": "",
+      "date": "11월 29일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/RMpFn2l1EukqBBAdG92j.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커팩",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12748",
+      "localImageUrl": "/images/events/62-event-12748.webp"
+    },
+    {
+      "id": "12931",
+      "title": "명명이 연구일지",
+      "location": "신드롬",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/cBaKyz1cNHK036kXwig1.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12931",
+      "localImageUrl": "/images/events/62-event-12931.webp"
+    },
+    {
+      "id": "13013",
+      "title": "명재현을 사랑하는 1204가지 이유",
+      "location": "카페몽글",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/B2bcptoWmqRQ8453a6l0.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스",
+        "스탬프 투어"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13013",
+      "localImageUrl": "/images/events/62-event-13013.webp"
+    },
+    {
+      "id": "12925",
+      "title": "碧海靑天",
+      "location": "카페 메루",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/Vvllrhy5zXWlU9rRnATp.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12925",
+      "localImageUrl": "/images/events/62-event-12925.webp"
+    },
+    {
+      "id": "13027",
+      "title": "명뭉이의 요거트레시피",
+      "location": "요고 프로즌요거트 홍대점",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/dQc5lvNYXPq0VL07H5p8.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "스탬프 투어"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13027",
+      "localImageUrl": "/images/events/62-event-13027.webp"
+    },
+    {
+      "id": "13078",
+      "title": "명명빌라 1204호",
+      "location": "카페라래",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/lhvRuX4xVnk4RbPLY7O2.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "종이컵",
+        "쿠션 키링",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13078",
+      "localImageUrl": "/images/events/62-event-13078.webp"
+    },
+    {
+      "id": "12735",
+      "title": "𝚃𝚑𝚎 𝚠𝚊𝚢 𝚠𝚎 𝚈𝙾𝚄𝚃𝙷",
+      "location": "노스폴",
+      "region": "",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/Lt6ZU7GZAhUNPo2sL6lh.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "도무송",
+        "엽서",
+        "종이컵",
+        "포토매틱"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12735",
+      "localImageUrl": "/images/events/62-event-12735.webp"
+    },
+    {
+      "id": "12932",
+      "title": "명명이 연구일지",
+      "location": "카페소야",
+      "region": "",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/2geC2EvoqM1eofyHgJ70.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12932",
+      "localImageUrl": "/images/events/62-event-12932.webp"
+    },
+    {
+      "id": "12927",
+      "title": "永遠 少年 天使 禁止",
+      "location": "비전문",
+      "region": "부산",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/be5YFxWjGCtB2rNFYgnj.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12927",
+      "localImageUrl": "/images/events/62-event-12927.webp"
+    },
+    {
+      "id": "12849",
+      "title": "재현이의 감자농장",
+      "location": "카페별하",
+      "region": "부산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/sVaKHqz2rDvlcyKAKOvr.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12849",
+      "localImageUrl": "/images/events/62-event-12849.webp"
+    },
+    {
+      "id": "12934",
+      "title": "𝙵𝟾 𝚃𝙾 𝚂𝙷𝙸𝙽𝙴",
+      "location": "키키스벌스데이",
+      "region": "부산",
+      "date": "11월 28일 - 12월 1일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/lzTbwt7SZZ1kMyy4605g.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포토매틱"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12934",
+      "localImageUrl": "/images/events/62-event-12934.webp"
+    },
+    {
+      "id": "12990",
+      "title": "키라키라 데이",
+      "location": "러브클럽",
+      "region": "부산",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/nwtE5IIiC8ssrTkUVOFn.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12990",
+      "localImageUrl": "/images/events/62-event-12990.webp"
+    },
+    {
+      "id": "12930",
+      "title": "Orbit_of_Affection",
+      "location": "델룰루(Delulu)",
+      "region": "용산",
+      "date": "11월 30일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/qHJWnaI8LVdmJ0aFPrXS.webp",
+      "eventTypes": [],
+      "goods": [
+        "엽서",
+        "컵",
+        "트레카"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12930",
+      "localImageUrl": "/images/events/62-event-12930.webp"
+    },
+    {
+      "id": "12929",
+      "title": "같이_쓰는_CHAPTER_1",
+      "location": "미닝더갤러리",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/oho9ZXcT2vE7XUADuBTt.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12929",
+      "localImageUrl": "/images/events/62-event-12929.webp"
+    },
+    {
+      "id": "13116",
+      "title": "❄️첫눈,첫사랑의 시작❄️",
+      "location": "폴링디저트",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/bls0cIDzC0aN9b3IZDD6.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13116",
+      "localImageUrl": "/images/events/62-event-13116.webp"
+    },
+    {
+      "id": "12926",
+      "title": "永遠 少年 天使 禁止",
+      "location": "카페니타",
+      "region": "",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/0z03g5XE1FTXE1jQzF1R.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12926",
+      "localImageUrl": "/images/events/62-event-12926.webp"
+    },
+    {
+      "id": "13058",
+      "title": "君への言葉(너에게 하는 말)",
+      "location": "악센트 와우",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/iBGNPC6aODsokICbzqHi.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커팩",
+        "연력",
+        "증명사진",
+        "향수"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13058",
+      "localImageUrl": "/images/events/62-event-13058.webp"
+    },
+    {
+      "id": "13102",
+      "title": "Love on delivery: 사랑배송중",
+      "location": "키드문 더 룸",
+      "region": "용산",
+      "date": "11월 30일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/3fQbnlkxhol00fykCoqo.webp",
+      "eventTypes": [
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13102",
+      "localImageUrl": "/images/events/62-event-13102.webp"
+    },
+    {
+      "id": "13139",
+      "title": "명 사장님네 띵어빵 가게",
+      "location": "철부지붕어빠",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/O0YKdrm2gyCsd69TS85K.webp",
+      "eventTypes": [],
+      "goods": [
+        "도무송",
+        "말랑 뱃지",
+        "명함",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13139",
+      "localImageUrl": "/images/events/62-event-13139.webp"
+    },
+    {
+      "id": "13115",
+      "title": "Level UP! 명명이 키우기 플랜",
+      "location": "스윗도프",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/9J9hRJgsN60gIVAC3JbJ.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "그 외",
+        "띠부실",
+        "엽서",
+        "종이컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13115",
+      "localImageUrl": "/images/events/62-event-13115.webp"
+    },
+    {
+      "id": "12928",
+      "title": "永遠 少年 天使 禁止",
+      "location": "카페 러브모드",
+      "region": "",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/gyX1sy5dDpdWTvhQu8tr.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12928",
+      "localImageUrl": "/images/events/62-event-12928.webp"
+    },
+    {
+      "id": "12924",
+      "title": "𝗣𝗨𝗣𝗣𝗬𝗧𝗢𝗪𝗡",
+      "location": "타임슬래시",
+      "region": "부산",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/7YEiCYJoaQ1LBXu4LHdQ.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "컵"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12924",
+      "localImageUrl": "/images/events/62-event-12924.webp"
+    },
+    {
+      "id": "13147",
+      "title": "𝓞𝓷𝓮 𝓑𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓓𝓪𝔂",
+      "location": "호야팡야",
+      "region": "부산",
+      "date": "11월 30일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/NcXNdMpbKOo8n4ltAXGA.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토매틱"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13147",
+      "localImageUrl": "/images/events/62-event-13147.webp"
+    },
+    {
+      "id": "13103",
+      "title": "✦ 명명이네 붕어빵 연구소 ε( ε ˙³˙)з",
+      "location": "키로",
+      "region": "",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/sMW6sYBJI0yJa3rMoKRJ.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스",
+        "가챠"
+      ],
+      "goods": [
+        "스티커",
+        "연력",
+        "종이컵",
+        "포스터"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13103",
+      "localImageUrl": "/images/events/62-event-13103.webp"
+    },
+    {
+      "id": "13125",
+      "title": "かわいいイケメンの子犬",
+      "location": "카페온",
+      "region": "",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/AN5dqxyXl5SnDnUb83KV.webp",
+      "eventTypes": [],
+      "goods": [
+        "보조배터리",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13125",
+      "localImageUrl": "/images/events/62-event-13125.webp"
+    },
+    {
+      "id": "13205",
+      "title": "🄷🄰🄿🄿🅈 🅆🄾🅁🄻🄳 재현왕국",
+      "location": "쿠비",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/yfVdtBvCwVDhw6TlUd5f.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "가챠"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포토매틱",
+        "프리쿠라"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13205",
+      "localImageUrl": "/images/events/62-event-13205.webp"
+    },
+    {
+      "id": "13090",
+      "title": "명재현의 야구기록⚾️",
+      "location": "카페모멘트",
+      "region": "부산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/SVEKxiIWWHZL50sShN5y.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포스터",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13090",
+      "localImageUrl": "/images/events/62-event-13090.webp"
+    },
+    {
+      "id": "13220",
+      "title": "𝓛𝓲𝓯𝓮𝓵𝓲𝓷𝓮",
+      "location": "플레이덕",
+      "region": "홍대",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/qJzIfWWKjH6vWPnRMr2o.webp",
+      "eventTypes": [
+        "포토부스"
+      ],
+      "goods": [
+        "동전지갑",
+        "스티커",
+        "포스터",
+        "포토존"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13220",
+      "localImageUrl": "/images/events/62-event-13220.webp"
+    },
+    {
+      "id": "13075",
+      "title": "ᴬ ˢᴺᴼᵂᶠᴬᴸᴸ ᴮᴼᴿᴺ ᴵᴺˢᴵᴰᴱ ᴬ ᴳᴸᴬˢˢ ᵂᴼᴿᴸᴰ",
+      "location": "봄날 플라워카페",
+      "region": "용산",
+      "date": "12월 2일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ExCAa09dvnXLnqm5geDo.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "사진",
+        "종이컵",
+        "키링",
+        "편지지"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13075",
+      "localImageUrl": "/images/events/62-event-13075.webp"
+    },
+    {
+      "id": "13089",
+      "title": "명재현의 야구기록⚾️",
+      "location": "해피벌스데이",
+      "region": "홍대",
+      "date": "12월 3일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/DP8lVaAsceDob5eWhWhu.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "엽서",
+        "컵",
+        "포스터",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13089",
+      "localImageUrl": "/images/events/62-event-13089.webp"
+    },
+    {
+      "id": "13097",
+      "title": "운명을 사랑한 그대에게",
+      "location": "카페아워(h) our",
+      "region": "부산",
+      "date": "11월 29일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/kITlkgWV5PkBuFLWkLBK.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "슬로건",
+        "종이컵",
+        "트레카",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13097",
+      "localImageUrl": "/images/events/62-event-13097.webp"
+    },
+    {
+      "id": "12917",
+      "title": "옆집 소년들의 파티",
+      "location": "카페올가",
+      "region": "",
+      "date": "11월 29일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/rh7ZmNIY0d59wTNsijHX.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "포토매틱",
+        "현수막"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12917",
+      "localImageUrl": "/images/events/62-event-12917.webp"
+    },
+    {
+      "id": "12921",
+      "title": "운멍즈에게 끌리는 이유",
+      "location": "코오피",
+      "region": "",
+      "date": "11월 29일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/QvjrpNXFEzzevf3uEYOE.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/12921",
+      "localImageUrl": "/images/events/62-event-12921.webp"
+    },
+    {
+      "id": "13173",
+      "title": "나랑 매점갈 원도어?!",
+      "location": "대구광역시 중구 중앙대로 412-48",
+      "region": "",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/EvpRomdIwLxyxZJzK6VP.webp",
+      "eventTypes": [],
+      "goods": [
+        "렌티큘러",
+        "스티커",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13173",
+      "localImageUrl": "/images/events/62-event-13173.webp"
+    },
+    {
+      "id": "13101",
+      "title": "뽀짝하재현 특집",
+      "location": "베란다",
+      "region": "부산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/n3HmI2gqMDcLv6ALH9my.webp",
+      "eventTypes": [],
+      "goods": [
+        "도무송",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13101",
+      "localImageUrl": "/images/events/62-event-13101.webp"
+    },
+    {
+      "id": "13166",
+      "title": "𝐹𝑖𝑛𝑑 𝑦𝑜𝑢𝑟 𝑊𝑖𝑧𝑎𝑟𝑑: 2904",
+      "location": "러버스클럽",
+      "region": "부산",
+      "date": "11월 29일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/0ohz1cIwuqzaftJAVigW.webp",
+      "eventTypes": [
+        "럭키드로우"
+      ],
+      "goods": [
+        "스티커",
+        "종이컵",
+        "포스터",
+        "학생증"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13166",
+      "localImageUrl": "/images/events/62-event-13166.webp"
+    },
+    {
+      "id": "13138",
+      "title": "하이띵라오",
+      "location": "하이디라오 명동점",
+      "region": "",
+      "date": "12월 3일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/LDFx7NAc9KUc9XdfWNuC.webp",
+      "eventTypes": [],
+      "goods": [
+        "물티슈",
+        "스티커",
+        "엽서",
+        "젓가락"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13138",
+      "localImageUrl": "/images/events/62-event-13138.webp"
+    },
+    {
+      "id": "13057",
+      "title": "안녕, 우리의 데스티니!",
+      "location": "노트 344",
+      "region": "부산",
+      "date": "11월 28일 - 11월 30일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/rUy9berJJSwUOoH0oLMh.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "엽서",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13057",
+      "localImageUrl": "/images/events/62-event-13057.webp"
+    },
+    {
+      "id": "13206",
+      "title": "RedPulse_JAEX03",
+      "location": "펀치드렁크러브",
+      "region": "",
+      "date": "12월 4일 - 12월 6일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/uapucCP3oZ3d6h7LWdXE.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "스탬프 투어"
+      ],
+      "goods": [
+        "종이컵",
+        "천 슬로건",
+        "키링",
+        "포스터"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13206",
+      "localImageUrl": "/images/events/62-event-13206.webp"
+    },
+    {
+      "id": "13170",
+      "title": "나랑 매점갈 원도어?!",
+      "location": "세모네모",
+      "region": "",
+      "date": "11월 28일 - 11월 29일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/Y86C4JYNVEd1SUyxQJNK.webp",
+      "eventTypes": [],
+      "goods": [
+        "렌티큘러",
+        "스티커",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13170",
+      "localImageUrl": "/images/events/62-event-13170.webp"
+    },
+    {
+      "id": "13172",
+      "title": "나랑 매점갈 원도어?!",
+      "location": "커피앤스토리",
+      "region": "",
+      "date": "11월 29일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ub3PMDRScSJcA7wESqmA.webp",
+      "eventTypes": [],
+      "goods": [
+        "렌티큘러",
+        "스티커",
+        "종이컵",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13172",
+      "localImageUrl": "/images/events/62-event-13172.webp"
+    },
+    {
+      "id": "13274",
+      "title": "명재현 연구동아리",
+      "location": "퐁당",
+      "region": "",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/y7rrzzPdBfLDjy5Vi5DL.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "키링",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13274",
+      "localImageUrl": "/images/events/62-event-13274.webp"
+    },
+    {
+      "id": "13276",
+      "title": "𝑳𝑶𝑽𝑬 𝑰𝑺 𝑰𝑵 𝑻𝑯𝑬 𝑨𝑰𝑹",
+      "location": "카페식스",
+      "region": "홍대",
+      "date": "12월 5일 - 12월 5일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/ExLYySmt27pbyQYA0e7U.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "키링",
+        "포토카드",
+        "폴라로이드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13276",
+      "localImageUrl": "/images/events/62-event-13276.webp"
+    },
+    {
+      "id": "13277",
+      "title": "𝑳𝑶𝑽𝑬 𝑰𝑺 𝑰𝑵 𝑻𝑯𝑬 𝑨𝑰𝑹",
+      "location": "세모네모",
+      "region": "",
+      "date": "12월 2일 - 12월 4일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/g2DtmVgXg2hgRwEMbpL3.webp",
+      "eventTypes": [],
+      "goods": [
+        "스티커",
+        "키링",
+        "포토카드",
+        "폴라로이드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13277",
+      "localImageUrl": "/images/events/62-event-13277.webp"
+    },
+    {
+      "id": "13275",
+      "title": "명재현 연구동아리",
+      "location": "바닐라808",
+      "region": "부산",
+      "date": "12월 4일 - 12월 7일",
+      "imageUrl": "https://kr.cafe24obs.com/data/cafe-event-image/base/cO4A6WD5LuYHSnsWcfFo.webp",
+      "eventTypes": [
+        "럭키드로우",
+        "포토부스"
+      ],
+      "goods": [
+        "엽서",
+        "종이컵",
+        "키링",
+        "포토카드"
+      ],
+      "detailUrl": "https://dukplace.com/ko/place/events/detail/13275",
+      "localImageUrl": "/images/events/62-event-13275.webp"
+    }
+  ]
+}
