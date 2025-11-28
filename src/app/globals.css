@@ -1,26 +1,42 @@
 @import "tailwindcss";
 
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-kpop-pink: #FF0080;
+  --color-kpop-blue: #00FFFF;
+  --color-kpop-lime: #CCFF00;
+  --color-kpop-purple: #9D00FF;
+  --color-kpop-bg: #F8F9FC;
+
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-righteous);
+}
+
 :root {
-  --background: #ffffff;
+  --background: #F8F9FC;
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Remove dark mode for this specific "Bright" concept request */
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+@utility container-custom {
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  max-width: 1200px; /* User requested max 1200px */
+  width: 100%;
+}
+
+@utility text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-kpop-pink via-kpop-purple to-kpop-blue;
 }
